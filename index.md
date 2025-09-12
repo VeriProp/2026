@@ -1,3 +1,5 @@
+TODO: Update 
+
 Probabilistic programs are a structured way to describe computations or models with access to some source of randomness. They appear naturally in various safety-, security-, and privacy-critical applications, including randomized algorithms, security protocols, and autonomous systems working in uncertain environments, e.g., due to imprecise sensors. 
 
 The behavior of probabilistic programs is often counterintuitive — a consequence of the well-known fact that humans have difficulties reasoning about stochastic processes. In combination with their importance in emerging safety-critical domains, the counterintuitive nature of probabilistic programs means that ensuring their correctness must be based on verification and analysis techniques that are rigorous, tool-supported, and, ideally, largely automated. However, such tools have not kept up with the increasing usage and popularity of probabilistic programs.
