@@ -57,6 +57,7 @@ Steering committee:
 
 
 # Previous Editions
+- [VeriProP 2025](https://veriprop.github.io/2025/)
 - [VeriProP 2024](https://veriprop.github.io/2024/)
 - [VeriProP 2023](https://veriprop.github.io/2023/)
 - [VeriProP 2022](https://veriprop.github.io/2022/)
