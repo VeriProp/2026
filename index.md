@@ -31,9 +31,9 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 ### Submission
 
-**Submission deadline**: TBA
+**Submission deadline**: May 6th 2026 AoE
 
-**Submission link**: TBA
+**Submission link**: https://submissions.floc26.org/veriprop/
 
 ### Attending
 
