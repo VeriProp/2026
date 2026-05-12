@@ -8,6 +8,10 @@ This workshop will provide a forum for research on the automated verification of
 
 # Invited Speakers: TBA
 
+- Justin Hsu, Cornell University
+- Suguman Bansal, Georgia Institute of Technology
+- Fabian Zaiser, MIT
+- Milan Ceska, Brno University of Technology
 
 # Program: TBA
 
