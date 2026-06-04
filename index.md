@@ -13,7 +13,7 @@ This workshop will provide a forum for research on the automated verification of
 - **Fabian Zaiser**, MIT
 - **Milan Ceska**, Brno University of Technology
 
-# Program
+# Preliminary Program
 
 | Time  | Author(s)                                                                                                   | Title                                                                                              |
 |-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ This workshop will provide a forum for research on the automated verification of
 | **11:00** | **Fabian Zaiser**                                                                                     | **TBA**                                                                                            |
 | 11:45 | Darion Haase, Kevin Batz, Adrian Gallus, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Lutz Klinkenberg and Tobias Winkler | Generating Functions Meet Occupation Measures: Invariant Synthesis for Probabilistic Loops         |
 | 12:00 | Sebastian Körner                                                                                           | Unbounded Nondeterministic Choice in Weighted Programs                                             |
-| 12:15 |                                                                                                             | Lunch (Provided?)                                                                                  |
+| 12:15 |                                                                                                             | Lunch (Provided)                                                                                  |
 | **14:00**  | **Milan Ceska**                                                                                      | **TBA**                                                                                            |
 | 14:45 | Kittiphon Phalakarn and Ichiro Hasuo                                                                        | Value Iteration for Stochastic Parity Games                                                        |
 | 15:00 | Takuma Monma, Clovis Eberhart and Hiroshi Unno                                                              | Probabilistic Loop Acceleration via a Quantitative Fixpoint Logic                                  |
