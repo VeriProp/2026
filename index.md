@@ -18,22 +18,22 @@ This workshop will provide a forum for research on the automated verification of
 | Time  | Author(s)                                                                                                   | Title                                                                                              |
 |-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | **9:00**  | **Justin Hsu**                                                                                         | **Type Systems for Exchangeability**                                                               |
-| 9:45  |                                                                                                             | SuperDP: Differential Privacy Refutation via Supermartingales                                      |
-| 10:00 |                                                                                                             | Deciding Termination of Simple Randomized Loops                                                    |
-| 10:15 |                                                                                                             | A First Decision Procedure for Almost-Sure Termination of Probabilistic Term                       |
+| 9:45  | Krishnendu Chatterjee, Ehsan Kafshdar Goharshady and Đorđe Žikelić                                          | SuperDP: Differential Privacy Refutation via Supermartingales                                      |
+| 10:00 | Éléanore Meyer and Jürgen Giesl                                                                             | Deciding Termination of Simple Randomized Loops                                                    |
+| 10:15 | Jan-Christoph Kassing, Arion Scheid, Henri Nagel and Jürgen Giesl                                           | A First Decision Procedure for Almost-Sure Termination of Probabilistic Term Rewriting             |
 | 10:30 |                                                                                                             | Coffee Break                                                                                       |
 | **11:00** | **Fabian Zaiser**                                                                                     | **TBA**                                                                                            |
-| 11:45 |                                                                                                             | Generating Functions Meet Occupation Measures: Invariant Synthesis for Probabilistic Loops         |
-| 12:00 |                                                                                                             | Unbounded Nondeterministic Choice in Weighted Programs                                             |
+| 11:45 | Darion Haase, Kevin Batz, Adrian Gallus, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Lutz Klinkenberg and Tobias Winkler | Generating Functions Meet Occupation Measures: Invariant Synthesis for Probabilistic Loops         |
+| 12:00 | Sebastian Körner                                                                                           | Unbounded Nondeterministic Choice in Weighted Programs                                             |
 | 12:15 |                                                                                                             | Lunch (Provided?)                                                                                  |
 | **14:00**  | **Milan Ceska**                                                                                      | **TBA**                                                                                            |
-| 14:45 |                                                                                                             | Value Iteration for Stochastic Parity Games                                                        |
-| 15:00 |                                                                                                             | Probabilistic Loop Acceleration via a Quantitative Fixpoint Logic                                  |
-| 15:15 |                                                                                                             | A Hierarchy of Supermartingales for ω-Regular Verification                                         |
+| 14:45 | Kittiphon Phalakarn and Ichiro Hasuo                                                                        | Value Iteration for Stochastic Parity Games                                                        |
+| 15:00 | Takuma Monma, Clovis Eberhart and Hiroshi Unno                                                              | Probabilistic Loop Acceleration via a Quantitative Fixpoint Logic                                  |
+| 15:15 | Satoshi Kura and Hiroshi Unno                                                                               | A Hierarchy of Supermartingales for ω-Regular Verification                                         |
 | 15:30 |                                                                                                             | Coffee Break                                                                                       |
 | **16:00**  | **Suguman Bansal**                                                                                   | **Specification-Guided Reinforcement Learning**                                                    |
-| 16:45 |                                                                                                             | Verified Inverse Function Search for Normalizing Flows                                             |
-| 17:00 |                                                                                                             | Analytical Inference for Business Processes with Uncertainties via Probabilistic Programming       |
+| 16:45 | David Richter, Timon Böhler, Benedict Smit, Pascal Weisenburger and Mira Mezini                             | Verified Inverse Function Search for Normalizing Flows                                             |
+| 17:00 | Romin Doz, Christin Matheja, Francesca Meneghello, Laura Nenzi, Andrey Rivkin and Simone Silvetti            | Analytical Inference for Business Processes with Uncertainties via Probabilistic Programming       |
 
 # Call for Presentations
 
