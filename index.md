@@ -6,14 +6,34 @@ In part, the lack of tool support can be explained by the fact that research on 
 
 This workshop will provide a forum for research on the automated verification of probabilistic systems that are in some way described by a programming language, with a particular focus on both symbolic methods and compositional approaches.
 
-# Invited Speakers:
+# Invited Speakers
 
-- Justin Hsu, Cornell University
-- Suguman Bansal, Georgia Institute of Technology
-- Fabian Zaiser, MIT
-- Milan Ceska, Brno University of Technology
+- **Justin Hsu**, Cornell University
+- **Suguman Bansal**, Georgia Institute of Technology
+- **Fabian Zaiser**, MIT
+- **Milan Ceska**, Brno University of Technology
 
-# Program: TBA
+# Program
+
+| Time  | Author(s)                                                                                                   | Title                                                                                              |
+|-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **9:00**  | **Justin Hsu**                                                                                         | **Type Systems for Exchangeability**                                                               |
+| 9:45  |                                                                                                             | SuperDP: Differential Privacy Refutation via Supermartingales                                      |
+| 10:00 |                                                                                                             | Deciding Termination of Simple Randomized Loops                                                    |
+| 10:15 |                                                                                                             | A First Decision Procedure for Almost-Sure Termination of Probabilistic Term                       |
+| 10:30 |                                                                                                             | Coffee Break                                                                                       |
+| **11:00** | **Fabian Zaiser**                                                                                     | **TBA**                                                                                            |
+| 11:45 |                                                                                                             | Generating Functions Meet Occupation Measures: Invariant Synthesis for Probabilistic Loops         |
+| 12:00 |                                                                                                             | Unbounded Nondeterministic Choice in Weighted Programs                                             |
+| 12:15 |                                                                                                             | Lunch (Provided?)                                                                                  |
+| **14:00**  | **Milan Ceska**                                                                                      | **TBA**                                                                                            |
+| 14:45 |                                                                                                             | Value Iteration for Stochastic Parity Games                                                        |
+| 15:00 |                                                                                                             | Probabilistic Loop Acceleration via a Quantitative Fixpoint Logic                                  |
+| 15:15 |                                                                                                             | A Hierarchy of Supermartingales for ω-Regular Verification                                         |
+| 15:30 |                                                                                                             | Coffee Break                                                                                       |
+| **16:00**  | **Suguman Bansal**                                                                                   | **Specification-Guided Reinforcement Learning**                                                    |
+| 16:45 |                                                                                                             | Verified Inverse Function Search for Normalizing Flows                                             |
+| 17:00 |                                                                                                             | Analytical Inference for Business Processes with Uncertainties via Probabilistic Programming       |
 
 # Call for Presentations
 
