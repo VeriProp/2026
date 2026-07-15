@@ -33,7 +33,7 @@ This workshop will provide a forum for research on the automated verification of
 | 15:30 |                                                                                                             | Coffee Break                                                                                       |
 | **16:00**  | **Suguman Bansal**                                                                                   | **Specification-Guided Reinforcement Learning**                                                    |
 | 16:45 | David Richter, Timon Böhler, Benedict Smit, Pascal Weisenburger and Mira Mezini                             | Verified Inverse Function Search for Normalizing Flows                                             |
-| 17:00 | Romin Doz, Christin Matheja, Francesca Meneghello, Laura Nenzi, Andrey Rivkin and Simone Silvetti            | Analytical Inference for Business Processes with Uncertainties via Probabilistic Programming       |
+| 17:00 | Romina Doz, Christoph Matheja, Francesca Meneghello, Laura Nenzi, Andrey Rivkin and Simone Silvetti            | Analytical Inference for Business Processes with Uncertainties via Probabilistic Programming       |
 
 # Call for Presentations
 
